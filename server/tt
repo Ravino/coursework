@@ -1,0 +1,30 @@
+{ key: 'WP-2032',
+  nameAviaCompany: 'РУССЭИР',
+  destination: 'Белиз' }
+{ key: 'KH-6924',
+  nameAviaCompany: 'ТУРУХАН',
+  destination: 'Маврикий' }
+{ key: 'XQ-4163',
+  nameAviaCompany: 'СИМАРГЛ',
+  destination: 'Афганистан' }
+{ key: 'XO-2782',
+  nameAviaCompany: 'Аэролимузин',
+  destination: 'Виргинские острова' }
+{ key: 'HP-2032',
+  nameAviaCompany: 'Арго',
+  destination: 'Украина' }
+{ key: 'DP-7719',
+  nameAviaCompany: 'Северо-Запад',
+  destination: 'Западная Сахара' }
+{ key: 'NS-7778',
+  nameAviaCompany: 'Ай Флай',
+  destination: 'Кирибати' }
+{ key: 'ZT-5534',
+  nameAviaCompany: 'СИМАРГЛ',
+  destination: 'Камерун' }
+{ key: 'WP-2032',
+  nameAviaCompany: 'Ред Вингс АО',
+  destination: 'Палау' }
+{ key: 'YQ-8233',
+  nameAviaCompany: 'ЮТ эир ЗАО',
+  destination: 'Австралия' }
